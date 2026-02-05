@@ -9,7 +9,7 @@
       flake = false;
     };
     sfptpd_src = {
-      url = "github:Xilinx-CNS/sfptpd";
+      url = "github:Xilinx-CNS/sfptpd/v3.8.1.1004";
       flake = false;
     };
   };

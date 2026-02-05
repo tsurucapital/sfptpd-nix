@@ -57,15 +57,16 @@
     "sfptpd_src": {
       "flake": false,
       "locked": {
-        "lastModified": 1671640821,
-        "narHash": "sha256-K0L4aBObOFh6JrlARhXUPz0xLAJuw5ZbPijnXy9ZQo4=",
+        "lastModified": 1739465214,
+        "narHash": "sha256-Q7BLwusZEGefZVGJaniOooBlp2FQ51kHIwPb6uEAL6k=",
         "owner": "Xilinx-CNS",
         "repo": "sfptpd",
-        "rev": "ba5ae6435e13cff51bb8c557153b539c2e23760c",
+        "rev": "0a77c232fcb8c4b3b6e66ad4fdcb01cb1c303129",
         "type": "github"
       },
       "original": {
         "owner": "Xilinx-CNS",
+        "ref": "v3.8.1.1004",
         "repo": "sfptpd",
         "type": "github"
       }
